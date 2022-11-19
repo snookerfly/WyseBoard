@@ -9,10 +9,10 @@ This is a simple converter to allow use of a PS/2 style keyboard with a Wyse 60 
     3 --> PS/2 Clock
     5 --> PS/2 Data
     9 --> Pro-Mini 10 (SPI SS)
-    12 --> Wyse Data (Pin 1)
-    13 --> Wyse Clock (Pin 3)
-    +5v --> Wyse +5v (Pin 2), PS/2 +5v
-    GND --> Wyse Gnd (Pin 4), PS/2 GND
+    12 --> Wyse Data (Pin 1) blue
+    13 --> Wyse Clock (Pin 3) violett
+    +5v --> Wyse +5v (Pin 2), PS/2 +5v  green
+    GND --> Wyse Gnd (Pin 4), PS/2 GND  white
 
 
 ## Operation
